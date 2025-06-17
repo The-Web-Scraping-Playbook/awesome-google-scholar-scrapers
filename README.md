@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Google-Scholar OpsKit
-> Find out everything you need to know to reliably scrape Google-Scholar with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/google-scholar)
+> Find out everything you need to know to reliably scrape Google-Scholar with our new tool: [Ops Kit](https://scrapeops.io/websites/google-scholar)
 
 This kit provides the blueprint for Google-Scholar scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -137,7 +137,7 @@ This kit provides the blueprint for Google-Scholar scraping operations:
 ---
 
 ## 🧠 Google-Scholar Tutorials & How-Tos<a id="google-scholar-tutorials"></a>
-- 📘 [How to Scrape Google-Scholar at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-google-scholar/)
+- 📘 [How to Scrape Google-Scholar at Scale](https://scrapeops.io/websites/google-scholar/how-to-scrape-google-scholar)
 - 🔐 [Web Scraping Google-Scholar Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
